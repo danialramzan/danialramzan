@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: everything! 
 - 🤔 I’m looking for help with: learning more about the workday api
 - 💬 Ask me about: obscure political ideologies
-- 📫 How to reach me: [email](mail:danialramzan@gmail.com)
+- 📫 How to reach me: [email](mailto:danialramzan@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: uhhhhhhhhhhhhhhhh
 
