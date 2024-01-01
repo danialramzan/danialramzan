@@ -6,14 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-✨danials github profile✨
+✨welcome to my github profile✨
 
-- 🔭 I’m currently working on: bringing a business idea to light
-- 🌱 I’m currently learning: java
+- 🔭 I’m currently working on: learning and implementing the PERN tech stack!
+- 🌱 I’m currently learning: nodejs, typescript, tailwind
 - 👯 I’m looking to collaborate on: everything! 
 - 🤔 I’m looking for help with: learning more about the workday api
 - 💬 Ask me about: obscure political ideologies
 - 📫 How to reach me: [email](mailto:danialramzan@gmail.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: uhhhhhhhhhhhhhhhh
 
