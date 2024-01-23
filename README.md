@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-✨welcome to my github profile✨
+_2nd year math major at the university of british columbia_
 
 - 🔭 I’m currently working on: learning and implementing the PERN tech stack!
 - 🌱 I’m currently learning: nodejs, typescript, tailwind
