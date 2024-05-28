@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-_2nd year math major at the university of british columbia_
+_3rd year math major at the university of british columbia_
 
-- 🔭 I’m currently working on: learning and implementing the PERN tech stack!
-- 🌱 I’m currently learning: nodejs, typescript, tailwind
-- 👯 I’m looking to collaborate on: everything! 
-- 🤔 I’m looking for help with: learning more about the workday api
+- 🔭 <!--I’m currently working on: learning and implementing the PERN tech stack! -->
+- 🌱 <!--I’m currently learning: nodejs, typescript, tailwind -->
+- 👯 <!--I’m looking to collaborate on: everything! -->
+- 🤔 <!--I’m looking for help with: learning more about the workday api -->
 - 💬 Ask me about: obscure political ideologies
-- 📫 How to reach me: [email](mailto:danialramzan@gmail.com)
+- 📫 <!--How to reach me: [email](mailto:danialramzan@gmail.com)
 
