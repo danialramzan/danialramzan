@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about: obscure political ideologies
 - 📫 <!--How to reach me: [email](mailto:danialramzan@gmail.com)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=danialramzan)](https://git.io/streak-stats)
