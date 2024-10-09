@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 ## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danialramzan)
-[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white)](https://linkedin.com/in/danialramzan)
-[![Recursion!](https://img.shields.io/badge/Recursion-100000?style=for-the-badge&logo=github&logoColor=white)]([https://linkedin.com/in/danialramzan](https://github.com/danialramzan/)) 
+[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white)](https://danialramzan.github.io/)
+[![Recursion!](https://img.shields.io/badge/Recursion-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danialramzan/)
 
 
 
