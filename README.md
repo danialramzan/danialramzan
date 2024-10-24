@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-### A Third Year Mathematics Student at UBC with concentrations in CS/DS :)
+### A 3<sup>rd</sup> Year Mathematics Student at UBC with concentrations in Computer Science and Data Science :)
 
 
 - 💬 Ask me about: obscure political theories
