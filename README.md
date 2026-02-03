@@ -1,4 +1,4 @@
-## Hey there, I'm Danial! 👋
+## Heyo, I'm Danial! 👋
 
 <!--
 **danialramzan/danialramzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,17 +6,24 @@
 Here are some ideas to get you started:
 -->
 
-#### 4<sup>th</sup> Year Math Student at The University of British Columbia with concentrations in Computer Science and Data Science. 
 
-##### Currently empl*yed as a Full Stack Android Intern at Salyx Medical in Victoria, BC, where I’m working on an Android application to help elderly care homes manage their residents :) 👵👴
+<h1 align="center">
+  4<sup>th</sup> Year Math Student at The University of British Columbia
+  <img src="https://github.com/user-attachments/assets/209a7612-975c-4068-b3b5-bfc4ed254a58" width="20" style="vertical-align:middle;">
+ 
+ with concentrations in Computer Science and Data Science. 
+
+</h1>
 
 
-- 💬 (do not) Ask me about: obscure political theories
-- 📫 How to reach me: [email](mailto:danialramzan@gmail.com)
+#####  currently scouting for summer 2026 positions!
+
+
+contact: [email](mailto:danialramzan@gmail.com)
 
 ## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danialramzan)
-[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white)](https://danialramzan.github.io/)
+[![Personal Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white)](https://danrmzn.ca/)
 [![Recursion!](https://img.shields.io/badge/Recursion-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danialramzan/)
 
 
