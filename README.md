@@ -1,4 +1,4 @@
-## Heyo, I'm Danial! 👋
+## hello, i'm danial! 👋
 
 <!--
 **danialramzan/danialramzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,19 +7,20 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">
-  4<sup>th</sup> Year Math Student at The University of British Columbia
+<h1 align="Left">
+  fifth year math & cs @
   <img src="https://github.com/user-attachments/assets/209a7612-975c-4068-b3b5-bfc4ed254a58" width="20" style="vertical-align:middle;">
- 
- with concentrations in Computer Science and Data Science. 
+
 
 </h1>
 
 
-#####  currently scouting for summer 2026 positions!
+##### data science @ <img width="100" height="30" alt="VCHRI_logo_RGB_transparent" src="https://github.com/user-attachments/assets/a2912305-1374-46e9-8ba5-c22901da8f51" />
 
+[contact me [email]](mailto:danrmzn@student.ubc.ca)
 
-contact: [email](mailto:danialramzan@gmail.com)
+website: https://danrmzn.ca
+
 
 ## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danialramzan)
